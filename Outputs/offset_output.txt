@@ -1,0 +1,123 @@
+
+ % decrease in agricultural CH4 emissions in RCP2.6: -55.66630146213433
+ % decrease in agricultural N2O emissions in RCP2.6: -95.01638627018072
+ By 2100 in const (CH4&N2O): increase in ERF = 0.21753934748193343  & in dT = 0.10069549339983763
+ By 2100 in BAU (CH4&N2O): increase in ERF = 0.8387910837411411  & in dT = 0.3768382312885308
+ By 2100 in const (CH4&N2O): increase in ERF = 0.21753934748193343  & in dT = 0.10069549339983763
+ By 2100 in BAU (CH4&N2O): increase in ERF = 0.8387910837411411  & in dT = 0.3768382312885308
+ By 2100 in const (CH4): increase in ERF = 0.21013093041923364  & in dT = 0.0969808904593048
+ By 2100 in BAU (CH4): increase in ERF = 0.7244667635412088  & in dT = 0.32573225741503853
+ By 2100 in const (N2O): increase in ERF = 0.0045630754322636205  & in dT = 0.002392232722930876
+ By 2100 in BAU (N2O): increase in ERF = 0.11325724893401837  & in dT = 0.05035759740805745
+ max agri CDR GWP100 cost (CH4&N2O): -0.9367020475149148 in year [100]
+ max agri CDR GWP100 BAU (CH4&N2O): -4.226826669170521 in year [100]
+ max agri CDR GWP100 cost (CH4): -0.9367020475149148 in year [100]
+ max agri CDR GWP100 BAU (CH4): -3.7584745460606896 in year [100]
+ max agri CDR GWP100 cost (N2O): -0.04321581461706675 in year [45]
+ max agri CDR GWP100 BAU (N2O): -0.4683521231098306 in year [100]
+ max agri CDR ERF cost: -1.3223904587502728 in year [48]
+ max agri CDR ERF BAU: -3.540382462476777 in year [51]
+ max agri CDR ERF cost (CH4): -1.2678256589084638 in year [48]
+ max agri CDR ERF BAU (CH4): -3.0694908379404686 in year [51]
+ max agri CDR ERF cost (N2O): -0.039435531500604235 in year [45]
+ max agri CDR ERF BAU (N2O): -0.4917429125151657 in year [55]
+ RCP2.6: start year of CDR > 0.1 in year: 30
+ GWP100: start year of CDR > 0.1, const: 20 & BAU: 20
+ ERF: start year of CDR > 0.1, const: 20 & BAU: 20
+ CH4 only: GWP100: start year of CDR > 0.1, const: 20 & BAU: 20
+ CH4 only: ERF: start year of CDR > 0.1, const: 20 & BAU: 20
+ N2O only: GWP100: start year of CDR > 0.1, const: 29 & BAU: 20
+ N2O only: ERF: start year of CDR > 0.1, const: 29 & BAU: 20
+ CH4 & N2O:
+: Mean divergence between GWP100-based offsetting & RCP2.6; ERF (CH4&N2O): -0.03504529092281673 & T anomaly: -0.015667195426714815
+ BAU: Mean divergence between GWP100-based offsetting & RCP2.6; ERF: -0.10128921344193353 & T anomaly: -0.04518439633752556
+ CH4 only:
+: Mean divergence between GWP100-based offsetting & RCP2.6; ERF (CH4&N2O): -0.038842996453382087 & T anomaly: -0.017283150770774434
+ BAU: Mean divergence between GWP100-based offsetting & RCP2.6; ERF: -0.14307973987187964 & T anomaly: -0.06221902108187817
+ N2O only:
+: Mean divergence between GWP100-based offsetting & RCP2.6; ERF (CH4&N2O): 0.0004417557919506973 & T anomaly: 0.00017118203321361852
+ BAU: Mean divergence between GWP100-based offsetting & RCP2.6; ERF: -0.005534589229783826 & T anomaly: -0.0023669894890131723
+ CH4&N2O:
+ const: 2100 divergence between GWP100-based offsetting & RCP2.6; ERF: -0.019496419254358216 & T anomaly: -0.015287121537898463
+ BAU: 2100 divergence between GWP100-based offsetting & RCP2.6; ERF: -0.0520421886546141 & T anomaly: -0.04476216519261356
+ CH4&N2O:
+ const: 2100 divergence between GWP100-based offsetting & RCP2.6; ERF: -0.019496419254358216 & T anomaly: -0.015287121537898463
+ BAU: 2100 divergence between GWP100-based offsetting & RCP2.6; ERF: -0.0520421886546141 & T anomaly: -0.04476216519261356
+ CH4 only:
+ const: 2100 divergence between GWP100-based offsetting & RCP2.6; ERF: -0.02593835284611959 & T anomaly: -0.018433757724254374
+ BAU: 2100 divergence between GWP100-based offsetting & RCP2.6; ERF: -0.1644898939694728 & T anomaly: -0.09374150900518963
+ N2O only:
+ const: 2100 divergence between GWP100-based offsetting & RCP2.6; ERF: 0.0017826461777434646 & T anomaly: 0.0007100893215188364
+ BAU: 2100 divergence between GWP100-based offsetting & RCP2.6; ERF: -0.008104704051860288 & T anomaly: -0.004298000994653384
+ CH4 & N2O:
+: Mean divergence between ERF-based offsetting & RCP2.6; ERF (CH4&N2O): -0.003843667894624528 & T anomaly: -0.0017547303837616433
+ BAU: Mean divergence between ERF-based offsetting & RCP2.6; ERF: -0.015043609563471583 & T anomaly: -0.006708279243217211
+ CH4 only:
+: Mean divergence between ERF-based offsetting & RCP2.6; ERF (CH4&N2O): 0.0008274746414924818 & T anomaly: 0.00024022020955230511
+ BAU: Mean divergence between ERF-based offsetting & RCP2.6; ERF: 0.03201162502512428 & T anomaly: 0.012703797991019379
+ N2O only:
+: Mean divergence between ERF-based offsetting & RCP2.6; ERF (CH4&N2O): 0.09545880327667833 & T anomaly: 0.039675831466241054
+ BAU: Mean divergence between ERF-based offsetting & RCP2.6; ERF: 0.28333853462388925 & T anomaly: 0.11633098774169144
+ CH4&N2O:
+ const: 2100 divergence between ERF-based offsetting & RCP2.6; ERF: -0.0025167767094009252 & T anomaly: -0.0015763996488857845
+ BAU: 2100 divergence between ERF-based offsetting & RCP2.6; ERF: -0.016147080258425733 & T anomaly: -0.008569648114230555
+ CH4 only:
+ const: 2100 divergence between ERF-based offsetting & RCP2.6; ERF: 0.004865181458628368 & T anomaly: 0.002127606303627738
+ BAU: 2100 divergence between ERF-based offsetting & RCP2.6; ERF: 0.09712414328125762 & T anomaly: 0.0421398208617898
+ N2O only:
+ const: 2100 divergence between ERF-based offsetting & RCP2.6; ERF: 0.20958450671163706 & T anomaly: 0.0963671568203961
+ BAU: 2100 divergence between ERF-based offsetting & RCP2.6; ERF: 0.6971272760368152 & T anomaly: 0.31307561613503987
+ CH4&N2O:
+ Mean tax price; const: 59.43777052329135 & BAU: 118.63399875985415
+ CH4 only:
+ Mean tax price; const: 2422.4884906791585 & BAU: 4210.102605033572
+ N2O only:
+ Mean tax price; const: 2096.685981481381 & BAU: 21935.169195830942
+ CH4&N2O:
+ Max tax price; const: 122.74874317981437 in year: [48]BAU: 195.9475218679352 in year: [46]
+ CH4 only:
+ Max tax price; const: 4972.078592260806 in year: [48]BAU: 7236.567034113035 in year: [45]
+ N2O only:
+ Max tax price; const: 4519.101090432516 in year: [45]BAU: 33415.45837476499 in year: [56]
+ CH4&N2O: 
+ Percentage CDR financed by tax by 2100; const: 7.7980693259018965 & BAU: 32.61728763922986
+ CH4 only: 
+ Percentage CDR financed by tax by 2100; const: 7.934265608115776 & BAU: 29.231623631478392
+ N2O only: 
+ Percentage CDR financed by tax by 2100; const: -0.0 & BAU: 7.523745412536864
+ CH4&N2O: 
+ Mean tax on beef; const: 2.502984835065886 & BAU: 4.995798079316941%
+ Mean increase in beef price relative to U.S. 2019; const: 18.65115376353119% & BAU: 37.22651325869554%
+ CH4 only: 
+ Mean tax on beef; const: 2.456137753032652 & BAU: 4.26858248951475%
+ Mean increase in beef price relative to U.S. 2019; const: 18.30206969472915% & BAU: 31.807619146905736%
+ N2O: 
+ Mean tax on beef; const: 0.11794742037018106 & BAU: 1.2339456861364497%
+ Mean increase in beef price relative to U.S. 2019; const: 0.8788928492561927% & BAU: 9.19482627523435%
+ CH4&N2O: 
+ Mean tax on rice; const: 0.24086973054654798 & BAU: 0.4807606184311374
+ Mean increase in rice price relative to U.S. 2019; const: 15.440367342727434% & BAU: 30.817988360970343%
+ CH4: 
+ Mean tax on rice; const: 0.2427295015462252 & BAU: 0.42184559832181634
+ Mean increase in rice price relative to U.S. 2019; const: 15.559583432450333% & BAU: 27.04138450780874%
+ N2O: 
+ Mean tax on rice; const: 0.09337093656508796 & BAU: 0.9768307269748349
+ Mean increase in rice price relative to U.S. 2019; const: 5.985316446479998% & BAU: 62.61735429325864%
+ CH4&N2O: 
+ Mean tax on milk; const: 0.16622234820609164 & BAU: 0.33176920462072457
+ Mean increase in milk price relative to U.S. 2019; const: 20.026788940492967% & BAU: 39.972193327798145%
+ CH4 only: 
+ Mean tax on milk; const: 0.17017042558890136 & BAU: 0.295743387358942
+ Mean increase in milk price relative to U.S. 2019; const: 20.502460914325464% & BAU: 35.631733416740005%
+ N2O only: 
+ Mean tax on milk; const: 0.007320281426702895 & BAU: 0.07658352899482702
+ Mean increase in milk price relative to U.S. 2019; const: 0.8819616176750475% & BAU: 9.226931204196028%
+ CH4&N20:
+ Total increase in CDR (%) ERF-approach; const: 28.351534089230828% & BAU: 101.95087953612125%
+ CH4 only:
+ Total increase in CDR (%) ERF-approach; const: 27.288957265032632% & BAU: 88.52207946817597%
+ N2O only:
+ Total increase in CDR (%) ERF-approach; const: 0.7035340786036182% & BAU: 14.11363882149313%CH4&N20:
+ Total increase in CDR (%) GWP100-approach; const: 24.335981715984456% & BAU: 91.57811171356343%CH4 only:
+ Total increase in CDR (%) GWP100-approach; const: 23.43214206770429% & BAU: 78.32673980899035%N2O only:
+ Total increase in CDR (%) GWP100-approach; const: 0.9038396482801617% & BAU: 13.251371904573078%
